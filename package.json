@@ -1,0 +1,11 @@
+{
+  "name": "pnpm-ts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm --filter foo run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
